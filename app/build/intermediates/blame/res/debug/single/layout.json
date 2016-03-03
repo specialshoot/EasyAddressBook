@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/layout/contact_list.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/layout/contact_list.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/layout/dialog_normal_layout.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/layout/dialog_normal_layout.xml"
+    }
+]

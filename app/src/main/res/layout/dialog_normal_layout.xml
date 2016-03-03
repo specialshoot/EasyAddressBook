@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_blue_light"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/text_18_ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="显示进度"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:visibility="visible" />
+
+        <com.daimajia.numberprogressbar.NumberProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp" />
+
+        <Button
+            android:id="@+id/positiveButton"
+            style="@style/text_15_ffffff_sdw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:background="@drawable/btn_ok_selector"
+            android:clickable="false"
+            android:text="导出"
+            android:textColor="@android:color/black"
+            android:textSize="12dp" />
+    </LinearLayout>
+
+</RelativeLayout>

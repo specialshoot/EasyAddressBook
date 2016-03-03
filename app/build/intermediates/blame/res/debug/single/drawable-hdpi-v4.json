@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cancel_selector.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/btn_cancel_selector.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_background.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/top_background.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonshape.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/buttonshape.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonshapeok.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/buttonshapeok.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonshapepress.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/buttonshapepress.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_btn_background.png",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/search_btn_background.png"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_top_background.png",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/search_top_background.png"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_ok_selector.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/btn_ok_selector.xml"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_frame.9.png",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/search_frame.9.png"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete.png",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_bottom_bg.xml",
+        "source": "/home/han/AndroidStudioProjects/IndexableListView/app/src/main/res/drawable-hdpi/dialog_bottom_bg.xml"
+    }
+]

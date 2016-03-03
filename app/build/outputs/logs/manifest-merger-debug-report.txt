@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:8:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:10:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:12:22-63
+application
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:14:5-27:19
+MERGED from [com.android.support:support-v4:22.1.1] /home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:17:9-51
+activity#com.woozzu.android.IndexableListViewActivity
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:19:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] /home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/exploded-aar/com.baoyz.swipemenulistview/library/1.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.numberprogressbar:library:1.2] /home/han/AndroidStudioProjects/IndexableListView/app/build/intermediates/exploded-aar/com.daimajia.numberprogressbar/library/1.2/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/han/AndroidStudioProjects/IndexableListView/app/src/main/AndroidManifest.xml
